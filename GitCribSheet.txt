@@ -1,12 +1,3 @@
-Author: jupyter-carr27
-User name: jupyter-esult
-Date: 2024-11-21
-License: MIT Open Source Initiative
-Version: 1.5
-
-GIT INSTALL
-GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
-Git distributions for Linux and POSIX systems are available on the official Git SCM web site. Git for All Platforms http://git-scm.com
 
 CREATE REPOSITORIES
 
