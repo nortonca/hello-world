@@ -1,6 +1,11 @@
+Author: jupyter-carr27
+User name: jupyter-carr27
+Date: 2024-11-21
+Version: 1.0
+
 GIT INSTALL
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
-Git distributions for Linux and POSIX systems are available on the official Git SCM web site. Git for All Platforms http://git-scm.com
+Git distributions for Linux and POSIX systems are available on the official Git  fixing any spelling errors: web site. Git for All Platforms http://git-scm.com
 
 CONFIGURE TOOLING
 Configure user information for all local repositories
@@ -8,7 +13,7 @@ $ git config --global user.name "[name]"
 Sets the name you want atached to your commit transactions
 $ git config --global user.email "[email address]"
 Sets the email you want atached to your commit transactions
-$ git config --global color.ui auto
+$ git config --global color.ibSheet.txt auto
 Enables helpful colorization of command line output
 
 CREATE REPOSITORIES
