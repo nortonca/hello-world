@@ -1,8 +1,20 @@
+Author: jupyter-carr27
+User name: jupyter-carr27
+Date: 2024-11-21
+Version: 1.0
+
+GIT INSTALL
+GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
+Git distributions for Linux and POSIX systems are available on the official Git SCM web site. Git for All Platforms http://git-scm.com
+
+CREATE REPOSITORIES
+
 CREATE REPOSITORIES
 [Content of CREATE REPOSITORIES section]
 
-CONFIGURE TOOLING
-CONFIGURE TOOLING
+[Content of CREATE REPOSITORIES section]
+
+
 [Content of CONFIGURE TOOLING section]
 
 [Rest of the content]
